@@ -16,19 +16,8 @@ This roadmap is designed to help track your progress through various cybersecuri
 
 ## Fundamentals
 
-### 1. Introduction to Academy
-- **Level**: Tier 0, Fundamental
-- **Sections**: 8
-- **Time**: 30 minutes
-- **Resources**: [Official Academy Intro](https://example.com), YouTube [Intro to Cybersecurity](https://www.youtube.com)
 
-#### Progress:  
-- [ ] Completed  
-- Notes:  
-
----
-
-### 2. Linux Fundamentals
+### 1. Linux Fundamentals
 - **Level**: Tier 0, Fundamental
 - **Sections**: 30
 - **Time**: 6 hours
@@ -45,7 +34,7 @@ This roadmap is designed to help track your progress through various cybersecuri
 
 ## Offensive Security
 
-### 3. Login Brute Forcing
+### 2. Login Brute Forcing
 - **Level**: Tier II, Easy
 - **Sections**: 13
 - **Time**: 6 hours
@@ -59,7 +48,7 @@ This roadmap is designed to help track your progress through various cybersecuri
 
 ---
 
-### 4. Wi-Fi Penetration Testing Basics
+### 3. Wi-Fi Penetration Testing Basics
 - **Level**: Tier II, Medium
 - **Sections**: 16
 - **Time**: 8 hours
@@ -75,7 +64,7 @@ This roadmap is designed to help track your progress through various cybersecuri
 
 ## Defensive Security
 
-### 5. Security Monitoring & SIEM Fundamentals
+### 4. Security Monitoring & SIEM Fundamentals
 - **Level**: Tier II, Easy
 - **Sections**: 11
 - **Time**: 5 hours
@@ -91,7 +80,7 @@ This roadmap is designed to help track your progress through various cybersecuri
 
 ## Advanced Security Topics
 
-### 6. Active Directory BloodHound
+### 5. Active Directory BloodHound
 - **Level**: Tier III, Medium
 - **Sections**: 14
 - **Time**: 5 hours
@@ -103,7 +92,7 @@ This roadmap is designed to help track your progress through various cybersecuri
 - [ ] Completed  
 - Notes:  
 
-### 7. Advanced SQL Injections
+### 6. Advanced SQL Injections
 - **Level**: Tier III, Hard
 - **Sections**: 12
 - **Time**: 2 days
